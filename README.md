@@ -430,8 +430,7 @@ MyApp is a [brief description]. Built with [stack].
 - **Testing:** Vitest, Playwright
 
 ## Project Structure
-```
-src/
+```src/
 ├── api/          # REST endpoints
 ├── services/     # Business logic
 ├── models/       # Prisma models
