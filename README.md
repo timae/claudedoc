@@ -479,8 +479,7 @@ npm run typecheck    # TypeScript validation
 # Monorepo: Platform
 
 ## Structure
-```
-packages/
+```packages/
 ├── api/           # Backend service (NestJS)
 ├── web/           # Customer portal (Next.js)
 ├── admin/         # Admin dashboard (React)
